@@ -20,7 +20,7 @@ O código foi desenvolvido e executado no Google Colab, utilizando TensorFlow, K
 
 Você pode rodar o projeto diretamente no Google Colab clicando abaixo:
 
-[![Abrir no Colab](https://colab.research.google.com/drive/1qe7URZBRL9adBIkTBMol_i6BTjD14o-2#scrollTo=MlTU00uys5jx)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qe7URZBRL9adBIkTBMol_i6BTjD14o-2#scrollTo=MlTU00uys5jx)
 
 ---
 
@@ -34,7 +34,6 @@ Você pode rodar o projeto diretamente no Google Colab clicando abaixo:
 ## 📁 Estrutura
 
 ├── 01.ipynb # Notebook principal com código e gráficos
-└── README.md # Este arquivo
 
 ---
 

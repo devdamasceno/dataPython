@@ -20,9 +20,7 @@ O código foi desenvolvido e executado no Google Colab, utilizando TensorFlow, K
 
 Você pode rodar o projeto diretamente no Google Colab clicando abaixo:
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/01.ipynb)
-
-> ⚠️ **Altere o link acima** com o nome correto do seu usuário e repositório no GitHub.
+[![Abrir no Colab](https://colab.research.google.com/drive/1qe7URZBRL9adBIkTBMol_i6BTjD14o-2#scrollTo=MlTU00uys5jx)
 
 ---
 
